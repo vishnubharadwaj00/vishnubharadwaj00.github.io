@@ -5,12 +5,28 @@
     <link>https://vishnubharadwaj00.github.io/project/</link>
       <atom:link href="https://vishnubharadwaj00.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vishnubharadwaj00.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://vishnubharadwaj00.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Satellite Image Classifier</title>
+      <link>https://vishnubharadwaj00.github.io/project/satelliteimage/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://vishnubharadwaj00.github.io/project/satelliteimage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science Salary Predictor</title>
+      <link>https://vishnubharadwaj00.github.io/project/datasciencesalarypred/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://vishnubharadwaj00.github.io/project/datasciencesalarypred/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tesla Stock Prediction using Web Scraping and Recurrent Neural Networks</title>
